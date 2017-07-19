@@ -1,0 +1,13 @@
+@contextlib.contextmanager
+def stdoutIO(stdout=None):
+    old = sys.stdout
+    if stdout is None:
+        stdout = StringIO()
+    sys.stdout = stdout
+    yield stdout
+    sys.stdout = old
+    
+    
+    
+    
+    client.run('MzMyNTQ1MjcxNTgzOTk3OTU0.DD_qeQ.CerntOz1E0DyXYIaBJcf7han4CU')
