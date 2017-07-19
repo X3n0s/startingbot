@@ -10,4 +10,4 @@ def stdoutIO(stdout=None):
     
     
     
-    client.run('MzMyNTQ1MjcxNTgzOTk3OTU0.DD_qeQ.CerntOz1E0DyXYIaBJcf7han4CU')
+    client.run('Bot Token')
